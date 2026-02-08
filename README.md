@@ -29,3 +29,6 @@ Enhance the overall digital presence of the business
 -Home, About, Services, and Contact sections
 -Clear call-to-action buttons
 -Easy navigation and accessibility
+
+# live demo
+http://gentle-tapioca-44b6c6.netlify.app/
